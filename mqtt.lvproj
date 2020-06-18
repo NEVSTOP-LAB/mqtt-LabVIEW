@@ -21,8 +21,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="labview-mqtt.lvlib" Type="Library" URL="../src/class/labview-mqtt.lvlib"/>
-		<Item Name="Test-main.vi" Type="VI" URL="../src/Test-main.vi"/>
+		<Item Name="Test.labview.mqtt.vi" Type="VI" URL="../src/class/Test.labview.mqtt.vi"/>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
+		<Item Name="MQTT.vipb" Type="Document" URL="../src/class/MQTT.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
