@@ -1,4 +1,7 @@
 # mqtt-LabVIEW
+
+[![GitHub all releases](https://img.shields.io/github/downloads/NEVSTOP-LAB/mqtt-LabVIEW/total)](https://github.com/NEVSTOP-LAB/mqtt-LabVIEW/releases)
+
 AN MQTT Driver implementation for LabVIEW.    
 (```LabVIEW 2014``` is used to build this project.)
 
